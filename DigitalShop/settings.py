@@ -32,7 +32,6 @@ AUTH_USER_MODEL='users.UserProfile'
 # Application definition
 
 INSTALLED_APPS = [
-    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -40,10 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'users.apps.UsersConfig',
     'DjangoUeditor',
-    'users',
-    'goods',
-    'trade',
-    'user_operation',
+    'goods.apps.GoodsConfig',
+    'trade.apps.TradeConfig',
+    'user_operation.apps.UserOperationConfig',
 
 ]
 

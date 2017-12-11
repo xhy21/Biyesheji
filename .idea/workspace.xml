@@ -2,7 +2,328 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d6a0da6-0fa9-4729-96b3-d9d3d6c58c1a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/commands.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/forms.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/models.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/settings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/UEditorSnapscreen.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/addCustomizeButton.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/addCustomizeCombox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/addCustomizeDialog.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/charts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/completeDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/customPluginDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/customToolbarDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/customizeDialogPage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/customizeToolbarUIDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/editor_api.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/filterRuleDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/highlightDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/jqueryCompleteDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/jqueryValidation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/multiDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/multiEditorWithOneInstance.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/renderInTable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/resetDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/sectiondemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/server/getContent.ashx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/server/getContent.asp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/server/getContent.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/server/getContent.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/setWidthHeightDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/simpleDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/sortableDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/submitFormDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/textareaDemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/_examples/uparsedemo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/anchor/anchor.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/attachment.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/attachment.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/attachment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/alignicon.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/alignicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/file-icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/file-icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/progress.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/success.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/images/success.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/background/background.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/background/background.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/background/background.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/background/images/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/background/images/success.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/charts/chart.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/charts/charts.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/charts/charts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/charts/charts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/charts/images/charts0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/charts/images/charts1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/charts/images/charts2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/charts/images/charts3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/charts/images/charts4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/charts/images/charts5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/emotion.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/emotion.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/emotion.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/images/0.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/images/bface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/images/cface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/images/fface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/images/jxface2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/images/tface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/images/wface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/images/yface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/gmap/gmap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/help/help.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/help/help.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/help/help.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/image.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/image.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/image.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/images/alignicon.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/images/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/images/icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/images/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/images/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/images/progress.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/images/success.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/images/success.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/insertframe/insertframe.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/internal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/link/link.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/map/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/map/show.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/music/music.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/music/music.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/music/music.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/preview/preview.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/addimg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/brush.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/delimg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/delimgH.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/empty.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/emptyH.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/eraser.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/redo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/redoH.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/scale.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/scaleH.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/size.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/undo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/images/undoH.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/scrawl.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/scrawl.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/scrawl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/searchreplace/searchreplace.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/searchreplace/searchreplace.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/snapscreen/snapscreen.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/spechars/spechars.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/spechars/spechars.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/table/dragicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/table/edittable.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/table/edittable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/table/edittable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/table/edittd.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/table/edittip.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/images/bg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/images/pre0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/images/pre1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/images/pre2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/images/pre3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/images/pre4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/template.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/template.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/template.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/center_focus.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/file-icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/file-icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/left_focus.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/none_focus.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/progress.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/right_focus.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/success.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/images/success.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/video.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/video.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/video.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/webapp/webapp.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/wordimage/imageUploader.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/wordimage/tangram.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/wordimage/wordimage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/wordimage/wordimage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/en.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/addimage.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/alldeletebtnhoverskin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/alldeletebtnupskin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/background.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/copy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/deletedisable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/deleteenable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/listbackground.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/localimage.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/music.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/rotateleftdisable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/rotateleftenable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/rotaterightdisable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/rotaterightenable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/images/upload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/zh-cn/images/copy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/zh-cn/images/localimage.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/zh-cn/images/music.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/zh-cn/images/upload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/zh-cn/zh-cn.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/php/Uploader.class.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/php/action_crawler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/php/action_list.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/php/action_upload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/php/config.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/php/controller.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/css/ueditor.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/css/ueditor.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/dialogbase.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/anchor.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/arrow_down.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/arrow_up.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/button-bg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/cancelbutton.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/charts.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/cursor_h.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/cursor_h.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/cursor_v.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/cursor_v.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/dialog-title-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/fileScan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/highlighted.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/icons-all.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/loaderror.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/lock.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/neweditor-tab-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/pagebreak.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/scale.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/sortable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/spacer.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/sparator_v.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/table-cell-align.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/tangram-colorpicker.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/toolbar_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/unhighlighted.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/upload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/videologo.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/word.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/default/images/wordpaste.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/themes/iframe.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/SyntaxHighlighter/shCore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/codemirror/codemirror.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/codemirror/codemirror.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/mootools-adapter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/prototype-adapter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/standalone-framework.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/highcharts-more.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/highcharts-more.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/highcharts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/highcharts.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/annotations.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/annotations.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/canvas-tools.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/canvas-tools.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/data.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/drilldown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/drilldown.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/exporting.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/exporting.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/funnel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/funnel.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/heatmap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/heatmap.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/map.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/no-data-to-display.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/themes/dark-blue.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/themes/dark-green.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/themes/gray.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/themes/grid.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/highcharts/themes/skies.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/jquery-1.10.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/jquery-1.10.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/jquery-1.10.2.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/video-js/font/vjs.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/video-js/font/vjs.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/video-js/font/vjs.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/video-js/font/vjs.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/video-js/video-js.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/video-js/video-js.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/video-js/video-js.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/video-js/video.dev.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/video-js/video.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/Uploader.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.custom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.custom.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.flashonly.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.flashonly.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.html5only.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.html5only.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.withoutimage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/zeroclipboard/ZeroClipboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/ueditor.all.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/ueditor.all.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/ueditor.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/ueditor.parse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/ueditor.parse.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/templates/ueditor.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/templates/ueditor_old.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/test_try.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/urls.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/views.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/widgets.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/DigitalShop/settings.py" afterPath="$PROJECT_DIR$/DigitalShop/settings.py" />
       <change beforePath="$PROJECT_DIR$/apps/goods/models.py" afterPath="$PROJECT_DIR$/apps/goods/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +341,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DigitalShop/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            <state relative-caret-position="513">
+              <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
               <folding>
                 <element signature="e#310#319#0" expanded="true" />
               </folding>
@@ -32,7 +353,7 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/users/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="297">
               <caret line="14" column="118" lean-forward="false" selection-start-line="14" selection-start-column="118" selection-end-line="14" selection-end-column="118" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -56,11 +377,21 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="27">
+              <caret line="22" column="63" lean-forward="true" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/php/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,8 +436,8 @@
         <option value="$PROJECT_DIR$/apps/users/models.py" />
         <option value="$PROJECT_DIR$/apps/trade/models.py" />
         <option value="$PROJECT_DIR$/apps/user_operation/models.py" />
-        <option value="$PROJECT_DIR$/DigitalShop/settings.py" />
         <option value="$PROJECT_DIR$/apps/goods/models.py" />
+        <option value="$PROJECT_DIR$/DigitalShop/settings.py" />
       </list>
     </option>
   </component>
@@ -117,10 +448,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="99" />
-    <option name="width" value="1555" />
-    <option name="height" value="959" />
+    <option name="x" value="157" />
+    <option name="y" value="12" />
+    <option name="width" value="1606" />
+    <option name="height" value="968" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -140,7 +471,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,24 +492,6 @@
             <path>
               <item name="DigitalShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="DigitalShop" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="trade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalShop" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="user_operation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalShop" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalShop" type="462c0819:PsiDirectoryNode" />
               <item name="DigitalShop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,12 +508,17 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\django\DigitalShop\extra_apps" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\django\DigitalShop\apps" />
       <recent name="F:\django\DigitalShop\goods" />
@@ -261,8 +578,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="99" width="1555" height="959" extended-state="0" />
-    <editor active="true" />
+    <frame x="157" y="12" width="1606" height="968" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -270,8 +586,9 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33007336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17351598" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16792929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@DigitalShop" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.049627792" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -282,7 +599,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="manage.py@DigitalShop" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04642409" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -298,6 +614,140 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DigitalShop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="68" column="66" lean-forward="false" selection-start-line="68" selection-start-column="66" selection-end-line="68" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DigitalShop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="e#310#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="118" lean-forward="false" selection-start-line="14" selection-start-column="118" selection-end-line="14" selection-end-column="118" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/trade/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user_operation/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DigitalShop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DigitalShop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="e#310#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="118" lean-forward="false" selection-start-line="14" selection-start-column="118" selection-end-line="14" selection-end-column="118" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/trade/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user_operation/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DigitalShop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DigitalShop/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
@@ -588,16 +1038,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DigitalShop/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-          <folding>
-            <element signature="e#310#319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/trade/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -620,7 +1060,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/users/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="297">
           <caret line="14" column="118" lean-forward="false" selection-start-line="14" selection-start-column="118" selection-end-line="14" selection-end-column="118" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -628,10 +1068,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/php/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DigitalShop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="e#310#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state relative-caret-position="27">
+          <caret line="22" column="63" lean-forward="true" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
